@@ -1,2 +1,2 @@
 # SimpleMobileGroupChatApp
- A pubic room chat
+ A simple pubic room chat for the Android platform.
