@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleMobileGroupChatApp</string>
+    <string name="app_title">SimpleGroupChat</string>
+    <string name="register_form">Registration Form</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_addFriend">Add Friend</string>
+    <string name="btn_link_to_login">Already registered? Login here.</string>
+    <string name="btn_link_to_register">Not registered? Register here.</string>
+    <string name="btn_send">Send</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+</resources>
